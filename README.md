@@ -4,7 +4,7 @@
 
 This interactive Excel dashboard analyzes customer purchasing behavior, revenue trends, and segmentation insights.
 
-[Project File download]()
+[Project File download](https://github.com/Himani0025/Customer-Purchase-Behavior-Analysis-Excel/blob/main/CustomerPurchaseProject(Excel)F.xlsb)
 
 # Key Features
 
@@ -46,6 +46,9 @@ Dashboard
 
 # Author
 Himani Sharma
+
 Linkedin - https://www.linkedin.com/in/himani-sharma-3a2024228
+
 Github - https://github.com/Himani0025
+
 Gmail - sharmahimani9380@gmail.com
