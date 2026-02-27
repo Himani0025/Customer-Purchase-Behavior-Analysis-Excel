@@ -33,7 +33,7 @@ Slicers
 Dashboard Design
 
 # Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Himani0025/Customer-Purchase-Behavior-Analysis-Excel/blob/main/Screenshot%202026-02-27%20134306.png)
 
 # File Structure
 
